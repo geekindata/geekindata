@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Prudhvi Neelakantam</h1>
-<h3 align="center">I Unleash Data for Better Business Decisions</h3><img align = "right" alt="Business Analyst" width="400" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif"><br><br>- 🔭 I’m currently working on <b>Business Intelligence & Data Science</b> projects<br><br>- 🌱 I’m currently learning <b>AI & Machine Learning</b><br><br>- 👨‍💻 You can find my portfolio profile at <b><a href="https://geekindata.com" target="_blank">geekindata.com</a></b><br><br>- 📄 You can find my resume at <a href="https://sai-interactive-resume.crd.co/" target="_blank">Sai-Interactive-CV-PowerBI</a><br><br>- 📫 How to reach me <a href="mailto:nsprudhvi1@gmail.com?cc=nsprudhvi@icloud.com&subject=Contact%3A%20Sai%20Prudhvi%20Neelakantam">nsprudhvi1@gmail.com</a> | <a href="https://linkedin.com/in/saiprudhvineelakantam" target="_blank">LinkedIn</a><br><br>- 💻 I have prior experience with Web Scraping, Automation, RESTful APIs etc.
+<h3 align="center">I Unleash Data for Better Business Decisions</h3><img align = "right" alt="Data Engineer" width="400" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif"><br><br>- 🔭 I’m currently working on <b>Business Intelligence & Data Science</b> projects<br><br>- 🌱 I’m currently learning <b>AI & Machine Learning</b><br><br>- 👨‍💻 You can find my portfolio profile at <b><a href="https://geekindata.com" target="_blank">geekindata.com</a></b><br><br>- 📄 You can find my resume at <a href="https://sai-interactive-resume.crd.co/" target="_blank">Sai-Interactive-CV-PowerBI</a><br><br>- 📫 How to reach me <a href="mailto:nsprudhvi1@gmail.com?cc=nsprudhvi@icloud.com&subject=Contact%3A%20Sai%20Prudhvi%20Neelakantam">nsprudhvi1@gmail.com</a> | <a href="https://linkedin.com/in/saiprudhvineelakantam" target="_blank">LinkedIn</a><br><br>- 💻 I have prior experience with Web Scraping, Automation, RESTful APIs etc.
 
 
 # 💻 Tech Stack:
@@ -9,6 +9,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nsprudhvi&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nsprudhvi&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsprudhvi&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=geekindata&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=geekindata&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekindata&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
