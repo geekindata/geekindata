@@ -130,11 +130,16 @@
 ## 📈 GitHub Statistics
 
 <div align="center">
+  <p><em>📊 All statistics include contributions from both public and private repositories</em></p>
+  <img src="https://img.shields.io/badge/Private%20Repos-Included-36BCF7?style=flat&logo=github&logoColor=white" alt="Private Repos Included">
+</div>
+
+<div align="center">
 
 ### 📊 Profile Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geekindata&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geekindata&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=stars" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -142,7 +147,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekindata&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekindata&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 </p>
 
 ### 🔥 Contribution Activity
@@ -150,6 +155,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekindata&theme=react-dark&bg_color=1F222E&color=36BCF7&line=36BCF7&point=FFFFFF&area_color=36BCF7&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+
+<p align="center"><em>🔥 Real-time contribution activity including private repositories</em></p>
 
 </div>
 
@@ -172,6 +179,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekindata&repo=your-repo-name&theme=radical&hide_border=true" alt="Pinned Repository" />
 </p>
+
+### 📊 Private Repository Contributions
+
+<div align="center">
+  <p><strong>🔒 Private Repository Statistics</strong></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=geekindata&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs" alt="Private Repository Stats" />
+  </p>
+  <p><em>📈 These statistics specifically highlight contributions from private repositories</em></p>
+  <p><small><em>Note: All GitHub statistics throughout this profile include both public and private repository contributions</em></small></p>
+</div>
 
 </div>
 
