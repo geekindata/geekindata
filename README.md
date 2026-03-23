@@ -201,13 +201,19 @@ Segmented customer data using SAS Viya and Python, applying clustering and ML te
 
 <p align="center">
   <a href="https://github.com/geekindata">
-    <img src="https://streak-stats.demolab.com/?user=geekindata&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=0078D4&amp;fire=FF3621&amp;currStreakLabel=0078D4" alt="GitHub contribution streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekindata&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=0078D4&amp;fire=FF3621&amp;currStreakLabel=0078D4" alt="GitHub contribution streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=geekindata&amp;theme=darkhub&amp;no-frame=true&amp;column=7&amp;margin-w=10" alt="GitHub profile trophies" />
+  <a href="https://github.com/geekindata?tab=followers"><img src="https://img.shields.io/github/followers/geekindata?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;color=0078D4" alt="GitHub followers count" /></a>
+  <a href="https://github.com/geekindata?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20all-24292f?style=for-the-badge&amp;logo=github&amp;labelColor=24292f" alt="View GitHub repositories" /></a>
+  <a href="https://github.com/geekindata?tab=overview"><img src="https://img.shields.io/badge/Contributions-Overview-238636?style=for-the-badge&amp;logo=github&amp;labelColor=238636" alt="GitHub contributions overview" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekindata&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=0078D4&amp;line=742774&amp;point=FF3621" alt="GitHub activity graph" />
   </a>
 </p>
 
