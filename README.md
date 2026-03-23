@@ -30,8 +30,6 @@ languages: English, Telugu, Hindi (native) | Norwegian Bokmål
 interests: Data Platforms, Azure AI, Conference Speaking, Coffee, Hiking, Lifting
 ```
 
-<img align="right" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif" width="340" alt="Animated data engineering illustration" />
-
 ### Quick Hits
 
 - Senior Consultant at **Evidi**, delivering data &amp; AI solutions on Azure, Databricks, Microsoft Fabric, Foundry, and Power BI
@@ -39,8 +37,6 @@ interests: Data Platforms, Azure AI, Conference Speaking, Coffee, Hiking, Liftin
 - **International speaker** at conferences across Europe and the US on Fabric, Azure AI, and Databricks
 - Building scalable data platforms for clients like **Kongsberg Digital**, **Anticimex**, and **NOMVEC**
 - **6+ years** bridging data engineering with business strategy
-
-<br clear="right"/>
 
 ---
 
