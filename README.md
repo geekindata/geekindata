@@ -1,16 +1,18 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,50:742774,100:FF3621&amp;height=230&amp;section=header&amp;text=Sai%20Prudhvi%20Neelakantam&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data%20%26%20AI%20Engineer%20%7C%20Oslo%2C%20Norway&amp;descSize=16&amp;descAlignY=55&amp;descColor=ffffff" alt="Header banner" width="100%" /></p>
+# Sai Prudhvi Neelakantam
+
+<p align="center"><img src="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/readme-header.svg" alt="Sai Prudhvi Neelakantam — Data &amp; AI Engineer, Oslo" width="100%" /></p>
 
 <p align="center">
   <a href="https://sai.geekindata.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=55&amp;lines=Senior+Consultant+%E2%80%A2+Data+%26+AI+Engineer+at+Evidi;Triple+Microsoft+%26+Databricks+Certified+Professional;Building+Scalable+Data+Platforms+on+Azure+%26+Fabric;International+Conference+Speaker+%40+GeekInData" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://sai.geekindata.com"><img src="https://img.shields.io/badge/Portfolio-sai.geekindata.com-0078D4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" /></a>
-  <a href="https://linkedin.com/in/saiprudhvineelakantam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://twitter.com/geekindata"><img src="https://img.shields.io/badge/X-@GeekInData-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
-  <a href="https://sessionize.com/saiprudhvineelakantam/"><img src="https://img.shields.io/badge/Sessionize-Speaker-1AB394?style=for-the-badge&amp;logo=sessionize&amp;logoColor=white" /></a>
-  <a href="mailto:sai@geekindata.com"><img src="https://img.shields.io/badge/Email-sai@geekindata.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=geekindata&amp;style=for-the-badge&amp;color=742774&amp;label=PROFILE+VIEWS" />
+  <a href="https://sai.geekindata.com"><img src="https://img.shields.io/badge/Portfolio-sai.geekindata.com-0078D4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio: sai.geekindata.com" /></a>
+  <a href="https://linkedin.com/in/saiprudhvineelakantam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://twitter.com/geekindata"><img src="https://img.shields.io/badge/X-@GeekInData-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X profile GeekInData" /></a>
+  <a href="https://sessionize.com/saiprudhvineelakantam/"><img src="https://img.shields.io/badge/Sessionize-Speaker-1AB394?style=for-the-badge&amp;logo=sessionize&amp;logoColor=white" alt="Sessionize speaker profile" /></a>
+  <a href="mailto:sai@geekindata.com"><img src="https://img.shields.io/badge/Email-sai@geekindata.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email sai@geekindata.com" /></a>
+  <img src="https://komarev.com/ghpvc/?username=geekindata&amp;style=for-the-badge&amp;color=742774&amp;label=PROFILE+VIEWS" alt="GitHub profile views counter" />
 </p>
 
 ---
@@ -28,7 +30,7 @@ languages: English, Telugu, Hindi (native) | Norwegian Bokmål
 interests: Data Platforms, Azure AI, Conference Speaking, Coffee, Hiking, Lifting
 ```
 
-<img align="right" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif" width="340" />
+<img align="right" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif" width="340" alt="Animated data engineering illustration" />
 
 ### Quick Hits
 
@@ -49,39 +51,42 @@ interests: Data Platforms, Azure AI, Conference Speaking, Coffee, Hiking, Liftin
 <td valign="top" width="33%">
 
 ### Cloud &amp; Data
+
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&amp;logo=delta&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity_Catalog-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" alt="Azure AI Foundry" />
+  <img src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&amp;logo=delta&amp;logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Azure OpenAI" />
+  <img src="https://img.shields.io/badge/Unity_Catalog-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Unity Catalog" />
 </p>
 </td>
 <td valign="top" width="33%">
 
 ### Analytics &amp; BI
+
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=power-bi&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&amp;logo=power-bi&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/SAS_Viya-1F6BFF?style=for-the-badge&amp;logo=sas&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Semantic_Models-742774?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=power-bi&amp;logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&amp;logo=power-bi&amp;logoColor=black" alt="DAX" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/SAS_Viya-1F6BFF?style=for-the-badge&amp;logo=sas&amp;logoColor=white" alt="SAS Viya" />
+  <img src="https://img.shields.io/badge/Semantic_Models-742774?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Semantic models" />
 </p>
 </td>
 <td valign="top" width="33%">
 
 ### Dev &amp; ML
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&amp;logo=apache-spark&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&amp;logo=apache-spark&amp;logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Machine learning" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
 </p>
 </td>
 </tr>
@@ -135,7 +140,7 @@ Segmented customer data using SAS Viya and Python, applying clustering and ML te
 
 ## Experience
 
-```
+```text
 2026 ─── Senior Consultant, Data Engineering and AI ─── Evidi ───────────── ▓▓▓░░
 2024 ─── Consultant Data Engineer ────────────────────── Evidi / Amesto ─── ▓▓▓▓░
 2022 ─── Power BI Data Analyst ───────────────────────── BI Norwegian ───── ▓▓░░░
@@ -163,17 +168,17 @@ Segmented customer data using SAS Viya and Python, applying clustering and ML te
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Engineer_Associate-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst_Associate-F2C811?style=for-the-badge&amp;logo=power-bi&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Databricks Data Engineer Associate certification" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Engineer_Associate-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Azure Data Engineer Associate certification" />
+  <img src="https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst_Associate-F2C811?style=for-the-badge&amp;logo=power-bi&amp;logoColor=black" alt="Microsoft Power BI Data Analyst Associate certification" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/SQL-Top_10%25_Worldwide-4479A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/SAS-ML_Using_SAS_Viya-1F6BFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/SAS-Visual_Statistics-1F6BFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/SAS-Data_Manipulation-1F6BFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/SAS-Visual_Analytics-1F6BFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microsoft-Power_BI_Visualization-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-Top_10%25_Worldwide-4479A1?style=flat-square" alt="SQL top 10 percent certificate" />
+  <img src="https://img.shields.io/badge/SAS-ML_Using_SAS_Viya-1F6BFF?style=flat-square" alt="SAS machine learning on Viya" />
+  <img src="https://img.shields.io/badge/SAS-Visual_Statistics-1F6BFF?style=flat-square" alt="SAS visual statistics" />
+  <img src="https://img.shields.io/badge/SAS-Data_Manipulation-1F6BFF?style=flat-square" alt="SAS data manipulation" />
+  <img src="https://img.shields.io/badge/SAS-Visual_Analytics-1F6BFF?style=flat-square" alt="SAS visual analytics" />
+  <img src="https://img.shields.io/badge/Microsoft-Power_BI_Visualization-0078D4?style=flat-square" alt="Microsoft Power BI visualization" />
 </p>
 
 ---
@@ -191,37 +196,37 @@ Segmented customer data using SAS Viya and Python, applying clustering and ML te
 
 <p align="center">
   <a href="https://github.com/geekindata">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=geekindata&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0078D4&amp;icon_color=742774&amp;text_color=c9d1d9&amp;count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=geekindata&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0078D4&amp;icon_color=742774&amp;text_color=c9d1d9&amp;count_private=true" alt="GitHub statistics for geekindata" />
   </a>
   <a href="https://github.com/geekindata">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekindata&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0078D4&amp;text_color=c9d1d9&amp;count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekindata&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0078D4&amp;text_color=c9d1d9&amp;count_private=true" alt="Most used languages on GitHub" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/geekindata">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekindata&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=0078D4&amp;fire=FF3621&amp;currStreakLabel=0078D4" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekindata&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=0078D4&amp;fire=FF3621&amp;currStreakLabel=0078D4" alt="GitHub contribution streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=geekindata&amp;theme=darkhub&amp;no-frame=true&amp;column=7&amp;margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=geekindata&amp;theme=darkhub&amp;no-frame=true&amp;column=7&amp;margin-w=10" alt="GitHub profile trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekindata&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=0078D4&amp;line=742774&amp;point=FF3621" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekindata&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=0078D4&amp;line=742774&amp;point=FF3621" alt="GitHub activity graph" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://sai.geekindata.com"><img src="https://img.shields.io/badge/sai.geekindata.com-0078D4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" /></a>
-  <a href="https://calendly.com/saiprudhvin/30min"><img src="https://img.shields.io/badge/Book_a_Meeting-006BFF?style=for-the-badge&amp;logo=google-calendar&amp;logoColor=white" /></a>
-  <a href="mailto:sai@geekindata.com"><img src="https://img.shields.io/badge/sai@geekindata.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://sai.geekindata.com"><img src="https://img.shields.io/badge/sai.geekindata.com-0078D4?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio website" /></a>
+  <a href="https://calendly.com/saiprudhvin/30min"><img src="https://img.shields.io/badge/Book_a_Meeting-006BFF?style=for-the-badge&amp;logo=google-calendar&amp;logoColor=white" alt="Book a meeting on Calendly" /></a>
+  <a href="mailto:sai@geekindata.com"><img src="https://img.shields.io/badge/sai@geekindata.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send email" /></a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,50:742774,100:FF3621&amp;height=120&amp;section=footer" alt="Footer banner" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/readme-footer.svg" alt="Footer gradient" width="100%" /></p>

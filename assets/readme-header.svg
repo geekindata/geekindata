@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-labelledby="title desc">
+  <title id="title">Sai Prudhvi Neelakantam</title>
+  <desc id="desc">Data and AI Engineer based in Oslo, Norway</desc>
+  <defs>
+    <linearGradient id="hdr" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0078D4"/>
+      <stop offset="50%" stop-color="#742774"/>
+      <stop offset="100%" stop-color="#FF6B6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" fill="url(#hdr)"/>
+  <path fill="#ffffff" fill-opacity="0.12" d="M0,175 Q320,130 640,165 T1200,145 L1200,230 L0,230 Z"/>
+  <text x="600" y="100" text-anchor="middle" fill="#ffffff" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="36" font-weight="700">Sai Prudhvi Neelakantam</text>
+  <text x="600" y="138" text-anchor="middle" fill="#ffffff" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" opacity="0.95">Data &amp; AI Engineer | Oslo, Norway</text>
+</svg>
