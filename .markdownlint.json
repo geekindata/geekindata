@@ -1,0 +1,20 @@
+{
+  "default": true,
+  "MD013": false,
+  "MD033": {
+    "allowed_elements": [
+      "a",
+      "b",
+      "br",
+      "code",
+      "details",
+      "img",
+      "p",
+      "summary",
+      "table",
+      "td",
+      "tr"
+    ]
+  },
+  "MD060": false
+}
