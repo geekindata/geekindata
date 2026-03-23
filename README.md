@@ -1,19 +1,123 @@
-<h1 align="center">Hi 👋, I'm Sai Prudhvi Neelakantam</h1>
-<h3 align="center">I Unleash Data for Better Business Decisions</h3><img align = "right" alt="Data Engineer" width="400" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif"><br><br>- 🔭 I’m currently working on <b>Data Engineering, Business Intelligence & Data Science</b> projects<br><br>- 🌱 I’m currently learning <b>AI & Machine Learning</b><br><br>- 👨‍💻 You can find my portfolio profile at <b><a href="https://sai.geekindata.com" target="_blank">sai.geekindata.com</a></b><br><br>- 📫 How to reach me <a href="mailto:sai@geekindata.com?cc=nsprudhvi1@gmail.com&subject=Contact%3A%20Sai%20Prudhvi%20Neelakantam">sai@geekindata.com</a> | <a href="https://linkedin.com/in/saiprudhvineelakantam" target="_blank">LinkedIn</a><br><br>
-    <div style="width: 80%; margin: 0 auto; text-align: justify;">
-        <p>-💻 As a data engineer at Amesto Analytics, Sai Prudhvi Neelakantam leverages his technical and business skills to deliver data solutions that drive value for clients. He holds a master's degree in business analytics from BI Norwegian Business School, and is also a double-certified data engineer by Microsoft and Databricks, demonstrating his proficiency in Azure, Power BI, and Databricks platforms. </p>
-        <p>Sai has over four years of professional experience and is expertise in data engineering and cloud analytics. He is adept at building and managing data warehouse solutions on Azure Cloud and Databricks, developing and optimizing ETL/ELT processes, and designing and implementing scalable data pipelines using PySpark, Python, and SQL. He is also proficient in Generative AI and Azure AI, enabling him to innovate data processing and analysis methodologies. He has collaborated cross-functionally to gather data requirements, ensure data quality and integrity, and translate data insights into actionable business strategies. </p>
-        <p>He has contributed to significant projects, such as predicting drug shortages and insights with EFPIA and analyzing the social network of Norwegian parliament members. Sai is passionate about harnessing the power of data to solve complex problems and create positive impact.</p>
-    </div>
+<h1 align="center">Hi, I'm Sai Prudhvi Neelakantam</h1>
+<h3 align="center">Data & AI Engineer | Triple Microsoft & Databricks Certified | Oslo, Norway</h3>
 
+<p align="center">
+  <a href="https://sai.geekindata.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-geekindata.com-blue?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/saiprudhvineelakantam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/geekindata" target="_blank"><img src="https://img.shields.io/badge/X-@GeekInData-000000?style=flat&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://sessionize.com/saiprudhvineelakantam/" target="_blank"><img src="https://img.shields.io/badge/Sessionize-Speaker-1AB394?style=flat&logo=sessionize&logoColor=white" alt="Sessionize" /></a>
+  <a href="mailto:sai@geekindata.com"><img src="https://img.shields.io/badge/Email-sai%40geekindata.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-# 💻 Tech Stack:
-<img src="https://user-images.githubusercontent.com/48961406/219240161-210084d4-c52c-4fa9-aacd-2bdb31d7a5c9.png" width="48" height="44" /> ![icons8-python-48](https://user-images.githubusercontent.com/54446705/205910414-1073cec0-f694-4364-af38-77e1a8b617f3.png) ![icons8-power-bi-48](https://user-images.githubusercontent.com/54446705/205910976-7819d3ce-b535-4aa9-a594-89df5d5d49d0.png) <img src="https://user-images.githubusercontent.com/48961406/219238153-61292b88-3ac1-4c0d-b587-4698f6035380.png" width="48" height="36" />  ![icons8-microsoft-excel-48](https://user-images.githubusercontent.com/54446705/205911135-0b6e8353-8a83-440c-aa8c-7ba8eb4d3be1.png)![icons8-git-48](https://user-images.githubusercontent.com/54446705/205911285-621bfd89-b411-4479-b386-8f80c483dc41.png)![icons8-jupyter-48](https://user-images.githubusercontent.com/54446705/205911361-99aafe55-d3c1-4eaa-821f-0f2869eb55ac.png) <img src="https://user-images.githubusercontent.com/48961406/219239063-2d7cd09f-1cff-4443-bf35-83c42a2a22ef.png" width="36" height="38" />
+<img align="right" alt="Data Engineer" width="380" src="https://miro.medium.com/max/1400/1*a-HMfeg5w-W02Nrw21iPtg.gif">
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+### About
 
+Senior Consultant and Data & AI Engineer at **Evidi** in Oslo, Norway, with 6+ years of experience building data platforms and AI solutions on **Azure**, **Databricks**, **Microsoft Fabric**, and **Power BI**.
 
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=geekindata&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=geekindata&theme=default&hide_border=false)<br/>
+Triple-certified by **Microsoft** (Azure Data Engineer, Power BI Data Analyst) and **Databricks** (Data Engineer Associate), with 9 professional certifications in total.
+
+Active community speaker and content creator under the handle **GeekInData**.
+
+<br clear="right"/>
+
+---
+
+### Current Focus
+
+- Building & consulting on data and AI solutions with Azure, Databricks, Microsoft Fabric, Foundry, and Power BI at **Evidi**
+- Speaking at international conferences and meetups on Microsoft Fabric, Azure AI, and Databricks
+- Exploring Azure AI Foundry, Azure OpenAI, and real-time AI architectures
+
+---
+
+### Featured Projects
+
+| Project | Client | Tech |
+|---------|--------|------|
+| **Azure Databricks Platform Development & Maintenance** | Kongsberg Digital | Databricks, PySpark, Delta Lake, Unity Catalog, CI/CD, Cost Optimization |
+| **Microsoft Fabric Platform Development & Maintenance** | Anticimex | Fabric, Dataflows Gen2, PySpark, Medallion Architecture, API Integration |
+| **Microsoft Fabric Migration & Lakehouse** | NOMVEC | Fabric, Lakehouses, ETL/ELT, Power BI Semantic Models |
+| **Drug Shortages Prediction & Insights** | EFPIA | Azure Databricks, Azure AI, Azure OpenAI, ML, Python |
+| **Customer Segmentation** | Telenor Norge | SAS Viya, Python, ML, Clustering |
+
+---
+
+### Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Jan 2026 – Present | Senior Consultant, Data Engineering & AI | Evidi |
+| Nov 2024 – Dec 2025 | Consultant Data Engineer | Evidi |
+| Aug 2024 – Nov 2024 | Consultant Data Engineer | Amesto |
+| Aug 2023 – Apr 2024 | Associate Consultant Data Engineer | Amesto |
+| Apr 2022 – Jul 2023 | Power BI Data Analyst | BI Norwegian Business School |
+| Aug 2022 – Jun 2023 | SAS Intern | SAS Institute |
+
+---
+
+### Community Talks
+
+- **Medallion in Fabric: End-to-End Use Case** — Microsoft Data Platform Meetup Groningen *(upcoming)*
+- **How to Successfully Deploy Advanced AI Models on Azure Cloud?** — Kansas City SQL Server Users Group
+- **Near-Real-Time Object Recognition using Azure AI and Microsoft Fabric** — Data Community Day Austria 2025
+- **Real-Time Object Recognition using Azure AI and Medallion within Microsoft Fabric** — Microsoft Fabric Global Online Conference
+- **UFO Unearthed: Data Adventures with Databricks, AI and Power BI** — Data Saturday Stockholm 2024, New Stars of Data #7
+- **Medallion in Fabric: End-to-End Use Case** — Microsoft Fabric Cafe
+
+---
+
+### Tech Stack
+
+**Cloud & Data Platforms**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat&logo=microsoft&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logo=delta&logoColor=white)
+
+**Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black)
+
+**Programming & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+### Certifications
+
+- **Databricks Certified Data Engineer Associate** — Databricks (2024)
+- **Microsoft Certified: Azure Data Engineer Associate** — Microsoft (2024)
+- **Microsoft Certified: Power BI Data Analyst Associate** — Microsoft (2023)
+- SQL Top 10% Examination Certificate
+- Machine Learning Using SAS Viya — SAS Institute
+- 4 additional SAS & Microsoft certifications
+
+---
+
+### Education
+
+- **MSc in Business Analytics** — BI Norwegian Business School, Oslo (2021–2023)
+- **BTech (Hons.) in Electronics & Communication Engineering** — Lovely Professional University, India (2015–2020)
+
+---
+
+### GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=geekindata&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekindata&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<p align="center">
+  <a href="https://sai.geekindata.com">sai.geekindata.com</a> · <a href="https://calendly.com/saiprudhvin/30min">Book a Meeting</a> · <a href="mailto:sai@geekindata.com">sai@geekindata.com</a>
+</p>
