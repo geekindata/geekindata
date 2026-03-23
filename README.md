@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:742774,100:FF3621&height=230&section=header&text=Sai%20Prudhvi%20Neelakantam&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20AI%20Engineer%20%7C%20Oslo%2C%20Norway&descSize=16&descAlignY=55&descColor=ffffff)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,50:742774,100:FF3621&amp;height=230&amp;section=header&amp;text=Sai%20Prudhvi%20Neelakantam&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data%20%26%20AI%20Engineer%20%7C%20Oslo%2C%20Norway&amp;descSize=16&amp;descAlignY=55&amp;descColor=ffffff" alt="Header banner" width="100%" /></p>
 
 <p align="center">
   <a href="https://sai.geekindata.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=55&amp;lines=Senior+Consultant+%E2%80%A2+Data+%26+AI+Engineer+at+Evidi;Triple+Microsoft+%26+Databricks+Certified+Professional;Building+Scalable+Data+Platforms+on+Azure+%26+Fabric;International+Conference+Speaker+%40+GeekInData" alt="Typing SVG" /></a>
@@ -19,7 +19,7 @@
 
 ```yaml
 name: Sai Prudhvi Neelakantam
-role: Senior Consultant, Data Engineering & AI
+role: Senior Consultant, Data Engineering and AI
 company: Evidi
 location: Oslo, Norway
 education: MSc Business Analytics — BI Norwegian Business School
@@ -136,7 +136,7 @@ Segmented customer data using SAS Viya and Python, applying clustering and ML te
 ## Experience
 
 ```
-2026 ─── Senior Consultant, Data Engineering & AI ──── Evidi ───────────── ▓▓▓░░
+2026 ─── Senior Consultant, Data Engineering and AI ─── Evidi ───────────── ▓▓▓░░
 2024 ─── Consultant Data Engineer ────────────────────── Evidi / Amesto ─── ▓▓▓▓░
 2022 ─── Power BI Data Analyst ───────────────────────── BI Norwegian ───── ▓▓░░░
 2022 ─── SAS Intern ──────────────────────────────────── SAS Institute ─── ▓░░░░
@@ -224,4 +224,4 @@ Segmented customer data using SAS Viya and Python, applying clustering and ML te
   <a href="mailto:sai@geekindata.com"><img src="https://img.shields.io/badge/sai@geekindata.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:742774,100:FF3621&height=120&section=footer)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,50:742774,100:FF3621&amp;height=120&amp;section=footer" alt="Footer banner" width="100%" /></p>
