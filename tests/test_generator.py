@@ -18,7 +18,7 @@ from generator.data import (
 from generator.content import CONTENT
 from generator.__main__ import refresh_snapshot
 from generator.readme import ASSET_BASE, SECTIONS, build_readme
-from generator.sections import render_sections
+from generator.sections import hero, render_sections
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -35,6 +35,9 @@ class GeneratorTests(unittest.TestCase):
                 self.assertNotRegex(svg, r"url\((?:https?:)?//")
                 self.assertNotRegex(svg, r"<image[^>]+(?:href|xlink:href)=['\"]https?://")
                 self.assertIn("data:font/woff2;base64,", svg)
+
+    def test_font_subsetting_is_deterministic(self):
+        self.assertEqual(hero.render({}, "dark"), hero.render({}, "dark"))
 
     def test_readme_references_each_theme_asset(self):
         readme = build_readme({"feed": []})

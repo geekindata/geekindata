@@ -88,6 +88,8 @@ def _embedded_fonts(svg_text: str) -> str:
                 subsetter.subset(font)
             finally:
                 logger.setLevel(previous_level)
+            font["head"].modified = font["head"].created
+            font.recalcTimestamp = False
             font.flavor = "woff2"
             output = BytesIO()
             font.save(output)
