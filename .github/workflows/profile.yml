@@ -1,0 +1,55 @@
+name: Profile
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # daily, early morning in Oslo
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "generator/**"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: generator/requirements.txt
+
+      - run: pip install -r generator/requirements.txt
+
+      - name: Test
+        run: python -m unittest discover -s generator/tests -t .
+
+      - name: Build assets and README
+        # PROFILE_TOKEN (optional, read-only PAT) lets language stats include private repos.
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python -m generator
+
+      - name: Commit changes
+        run: |
+          git add assets data README.md
+          if git diff --staged --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(profile): refresh live assets"
+          git pull --rebase
+          git push

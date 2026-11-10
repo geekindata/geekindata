@@ -6,15 +6,13 @@
       "a",
       "b",
       "br",
-      "code",
-      "details",
       "img",
       "p",
-      "summary",
-      "table",
-      "td",
-      "tr"
+      "picture",
+      "source",
+      "sub"
     ]
   },
+  "MD041": false,
   "MD060": false
 }
