@@ -1,0 +1,283 @@
+[profile]
+name = "Sai Prudhvi Neelakantam"
+first_name = "Sai Prudhvi"
+surname = "Neelakantam"
+location = "Oslo, Norway"
+latitude = "59.9139"
+longitude = "10.7522"
+role = "Senior Consultant, Data Engineering & AI"
+company = "Evidi"
+focus = "Lakehouses on Fabric & Databricks · AI agents on Microsoft Foundry"
+portfolio = "https://sai.geekindata.com"
+github = "geekindata"
+sessionize = "https://sessionize.com/saiprudhvineelakantam/"
+rss = "https://geekindata.com/feed/"
+
+[whoami]
+degree = "MSc Business Analytics, BI Norwegian Business School"
+languages = "English, Telugu, Hindi, Norwegian Bokmål"
+interests = "Data platforms, Azure AI, conference speaking, coffee, hiking"
+
+[[stack]]
+symbol = "Fb"
+name = "Fabric"
+group = "Data platform"
+core = true
+
+[[stack]]
+symbol = "Az"
+name = "Azure"
+group = "Engineering"
+core = true
+
+[[stack]]
+symbol = "Db"
+name = "Databricks"
+group = "Data platform"
+core = true
+
+[[stack]]
+symbol = "Ol"
+name = "OneLake"
+group = "Data platform"
+
+[[stack]]
+symbol = "Fd"
+name = "Foundry"
+group = "AI & agents"
+core = true
+
+[[stack]]
+symbol = "Ag"
+name = "Agents"
+group = "AI & agents"
+
+[[stack]]
+symbol = "Py"
+name = "Python"
+group = "Engineering"
+
+[[stack]]
+symbol = "Ts"
+name = "TypeScript"
+group = "Engineering"
+
+[[stack]]
+symbol = "Dl"
+name = "Delta Lake"
+group = "Data platform"
+
+[[stack]]
+symbol = "Uc"
+name = "Unity Catalog"
+group = "Data platform"
+
+[[stack]]
+symbol = "Pb"
+name = "Power BI"
+group = "Analytics & BI"
+core = true
+
+[[stack]]
+symbol = "Sm"
+name = "Semantic Models"
+group = "Analytics & BI"
+
+[[stack]]
+symbol = "Dx"
+name = "DAX"
+group = "Analytics & BI"
+
+[[stack]]
+symbol = "Pq"
+name = "Power Query"
+group = "Analytics & BI"
+
+[[stack]]
+symbol = "Ao"
+name = "Azure OpenAI"
+group = "AI & agents"
+
+[[stack]]
+symbol = "As"
+name = "AI Search"
+group = "AI & agents"
+
+[[stack]]
+symbol = "Fn"
+name = "Functions"
+group = "Engineering"
+
+[[stack]]
+symbol = "En"
+name = "Entra ID"
+group = "Engineering"
+
+[[stack]]
+symbol = "Sp"
+name = "PySpark"
+group = "Data platform"
+
+[[stack]]
+symbol = "Sq"
+name = "SQL"
+group = "Data platform"
+
+[[stack]]
+symbol = "Pa"
+name = "Power Automate"
+group = "Analytics & BI"
+
+[[stack]]
+symbol = "Pp"
+name = "Power Apps"
+group = "Analytics & BI"
+
+[[stack]]
+symbol = "Dv"
+name = "Dataverse"
+group = "Analytics & BI"
+
+[[stack]]
+symbol = "Sv"
+name = "SAS Viya"
+group = "Analytics & BI"
+
+[[stack]]
+symbol = "Ev"
+name = "Evals"
+group = "AI & agents"
+
+[[stack]]
+symbol = "Ml"
+name = "Machine Learning"
+group = "AI & agents"
+
+[[stack]]
+symbol = "Gh"
+name = "GitHub Actions"
+group = "Engineering"
+
+[[stack]]
+symbol = "Do"
+name = "Azure DevOps"
+group = "Engineering"
+
+[[project]]
+name = "Dibber"
+eyebrow = "DATA PLATFORM · FABRIC"
+description = "Building a modern lakehouse foundation for trusted analytics and data products."
+tools = "Microsoft Fabric · Lakehouse · Data Engineering"
+
+[[project]]
+name = "IKM Foundry"
+eyebrow = "AI AGENTS · FOUNDRY"
+description = "Designing agent front doors that connect enterprise knowledge to useful AI."
+tools = "Microsoft Foundry · Agents · Azure AI"
+
+[[project]]
+name = "Kongsberg Digital"
+eyebrow = "DATA PLATFORM · DATABRICKS"
+description = "Scalable pipelines, governance, CI/CD, and cost-aware data operations."
+tools = "Azure Databricks · PySpark · Unity Catalog"
+
+[[project]]
+name = "Anticimex"
+eyebrow = "DATA PLATFORM · FABRIC"
+description = "Medallion architecture, integrations, and orchestration for a Fabric platform."
+tools = "Microsoft Fabric · PySpark · SQL"
+
+[[talk]]
+title = "How to Deploy Advanced AI Models on Azure Cloud?"
+event = "Kansas City SQL Server Users Group"
+year = "2025"
+
+[[talk]]
+title = "Near-Real-Time Object Recognition with Azure AI & Fabric"
+event = "Data Community Day Austria"
+year = "2025"
+
+[[talk]]
+title = "Medallion in Fabric: End-to-End Use Case"
+event = "Microsoft Fabric Cafe"
+year = "2024"
+
+[[talk]]
+title = "UFO Unearthed: Databricks, AI and Power BI"
+event = "Data Saturday Stockholm"
+year = "2024"
+
+[[career]]
+period = "NOV 2024 → NOW"
+role = "Senior Consultant, Data Engineering & AI"
+company = "Evidi"
+description = "Building lakehouse and AI solutions for Nordic teams."
+
+[[career]]
+period = "AUG 2023 → NOV 2024"
+role = "Consultant Data Engineer"
+company = "Amesto"
+description = "Delivered data platforms across Fabric, Databricks, and Azure."
+
+[[career]]
+period = "2022 → 2023"
+role = "Power BI Data Analyst"
+company = "BI Norwegian Business School"
+description = "Connected business questions to clear analytics."
+
+[[career]]
+period = "2022"
+role = "SAS Intern"
+company = "SAS Institute"
+description = "Explored analytics and machine learning with SAS Viya."
+
+[[career]]
+period = "2019"
+role = "Senior Business Development Manager"
+company = "Ed-tech India"
+description = "Built partnerships and connected business strategy to technology."
+
+[[certification]]
+name = "Azure Data Engineer Associate"
+issuer = "MICROSOFT"
+accent = "cyan"
+
+[[certification]]
+name = "Power BI Visualization"
+issuer = "MICROSOFT"
+accent = "blue"
+
+[[certification]]
+name = "Power BI Data Analyst Associate"
+issuer = "MICROSOFT"
+accent = "gold"
+
+[[certification]]
+name = "Data Engineer Associate"
+issuer = "DATABRICKS"
+accent = "violet"
+
+[[certification]]
+name = "Machine Learning Using SAS Viya"
+issuer = "SAS"
+accent = "blue"
+
+[[certification]]
+name = "Visual Statistics"
+issuer = "SAS"
+accent = "violet"
+
+[[certification]]
+name = "Data Manipulation"
+issuer = "SAS"
+accent = "cyan"
+
+[[certification]]
+name = "Visual Analytics"
+issuer = "SAS"
+accent = "gold"
+
+[[certification]]
+name = "Top 10% Worldwide"
+issuer = "SQL"
+accent = "green"
