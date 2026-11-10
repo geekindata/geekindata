@@ -1,0 +1,282 @@
+# Hand-authored profile content. Edit this file, then run `python -m generator`.
+# Live numbers (contributions, languages, field notes) are fetched separately.
+
+[profile]
+login = "geekindata"
+name_first = "Sai Prudhvi"
+name_last = "Neelakantam"
+role = "Senior Consultant, Data Engineering & AI · Evidi"
+pitch = "Lakehouses on Fabric & Databricks · AI agents on Microsoft Foundry"
+coordinates = "59.9139° N · 10.7522° E · OSLO, NORWAY"
+now = "building Foundry agent front doors"
+feed = "https://www.geekindata.com/rss.xml"
+notes_limit = 5
+raw_base = "https://raw.githubusercontent.com/geekindata/geekindata/main/assets"
+intro = """
+I build <b>lakehouse platforms</b> on Microsoft Fabric &amp; Azure Databricks and <b>enterprise AI agents</b> on Microsoft Foundry,
+then write up what broke, what changed and what held up at <a href="https://www.geekindata.com">geekindata.com</a>.
+"""
+
+[[links]]
+label = "Portfolio"
+url = "https://sai.geekindata.com"
+accent = "data"
+
+[[links]]
+label = "Field notes"
+url = "https://www.geekindata.com"
+accent = "ai"
+
+[[links]]
+label = "LinkedIn"
+url = "https://linkedin.com/in/saiprudhvineelakantam"
+accent = "eng"
+
+[[links]]
+label = "X"
+url = "https://x.com/geekindata"
+accent = "pink"
+
+[[links]]
+label = "Sessionize"
+url = "https://sessionize.com/saiprudhvineelakantam/"
+accent = "ok"
+
+[[links]]
+label = "Email"
+url = "mailto:sai@geekindata.com"
+accent = "hot"
+
+[[links]]
+label = "Book 30 min"
+url = "https://calendly.com/saiprudhvin/30min"
+accent = "bi"
+
+# ------------------------------------------------------------------ notebook
+[whoami]
+query = ["%%sql", "SELECT *", "FROM   gold.people", "WHERE  handle = 'geekindata';  -- that's me"]
+rows = [
+  ["name", "Sai Prudhvi Neelakantam"],
+  ["role", "Senior Consultant, Data Engineering & AI @ Evidi"],
+  ["based_in", "Oslo, Norway"],
+  ["builds", "Lakehouse platforms on Fabric & Databricks · enterprise AI agents on Microsoft Foundry"],
+  ["community", "Organiser in the Oslo AI community · Sessionize Most Active Speaker 2024"],
+  ["writes", "Field notes from real delivery work: what broke, what changed, what held up"],
+  ["speaks", "English · Telugu · Hindi · Norsk (bokmål)"],
+  ["off_hours", "coffee · hiking · lifting"],
+]
+
+# ------------------------------------------------------------------ stack
+# Periodic-table layout: 10 columns x 4 rows. Elements fill the slots of each
+# category's column block top-to-bottom, left-to-right.
+[stack]
+categories = [
+  { key = "data", label = "Data platform", cols = [0, 1] },
+  { key = "bi", label = "Analytics & BI", cols = [2, 3, 4, 5] },
+  { key = "ai", label = "AI & agents", cols = [6, 7] },
+  { key = "eng", label = "Engineering", cols = [8, 9] },
+]
+elements = [
+  { sym = "Fb", name = "Fabric", cat = "data", core = true },
+  { sym = "Db", name = "Databricks", cat = "data", core = true },
+  { sym = "Ol", name = "OneLake", cat = "data" },
+  { sym = "Dl", name = "Delta Lake", cat = "data" },
+  { sym = "Uc", name = "Unity Catalog", cat = "data" },
+  { sym = "Sp", name = "PySpark", cat = "data" },
+  { sym = "Sq", name = "SQL", cat = "data" },
+  { sym = "Pb", name = "Power BI", cat = "bi", core = true },
+  { sym = "Sm", name = "Semantic Models", cat = "bi" },
+  { sym = "Dx", name = "DAX", cat = "bi" },
+  { sym = "Pq", name = "Power Query", cat = "bi" },
+  { sym = "Pa", name = "Power Automate", cat = "bi" },
+  { sym = "Pp", name = "Power Apps", cat = "bi" },
+  { sym = "Dv", name = "Dataverse", cat = "bi" },
+  { sym = "Sv", name = "SAS Viya", cat = "bi" },
+  { sym = "Fd", name = "Foundry", cat = "ai", core = true },
+  { sym = "Ag", name = "Agents", cat = "ai" },
+  { sym = "Ao", name = "Azure OpenAI", cat = "ai" },
+  { sym = "As", name = "AI Search", cat = "ai" },
+  { sym = "Ev", name = "Evals", cat = "ai" },
+  { sym = "Ml", name = "Machine Learning", cat = "ai" },
+  { sym = "Az", name = "Azure", cat = "eng", core = true },
+  { sym = "Py", name = "Python", cat = "eng" },
+  { sym = "Ts", name = "TypeScript", cat = "eng" },
+  { sym = "Fn", name = "Functions", cat = "eng" },
+  { sym = "En", name = "Entra ID", cat = "eng" },
+  { sym = "Gh", name = "GitHub Actions", cat = "eng" },
+  { sym = "Do", name = "Azure DevOps", cat = "eng" },
+]
+
+# ------------------------------------------------------------------ work
+[[work]]
+client = "Dibber"
+title = "Foundry Agent Platform"
+status = "Ongoing"
+sym = "Fd"
+cat = "ai"
+summary = "A chat-first enterprise front door with a knowledge library, multi-agent catalog and Entra sign-in, taken from POC to MVP on Azure."
+tags = ["Microsoft Foundry", "Entra ID", "React", ".NET", "AI Search"]
+
+[[work]]
+client = "IKM"
+title = "Enterprise AI Agent Front Door"
+status = "Ongoing"
+sym = "Ag"
+cat = "ai"
+summary = "Governed AI assistance across the organisation: secure knowledge access, App Service hosting and Entra app-role authorisation."
+tags = ["Microsoft Foundry", "App Service", "Entra ID", "GitHub Actions"]
+
+[[work]]
+client = "Kongsberg Digital"
+title = "Azure Databricks Platform"
+status = "Ongoing"
+sym = "Db"
+cat = "data"
+summary = "Pipelines, Unity Catalog governance, CI/CD, cost optimisation and cluster management for a platform that has to scale and stay reliable."
+tags = ["Databricks", "Unity Catalog", "Delta Lake", "Azure DevOps"]
+
+[[work]]
+client = "Anticimex"
+title = "Microsoft Fabric Platform"
+status = "Ongoing"
+sym = "Fb"
+cat = "data"
+summary = "A medallion lakehouse with CRM integrations, API and XML ingestion, and orchestrated PySpark, Python and SQL pipelines."
+tags = ["Microsoft Fabric", "Dataflows Gen2", "PySpark", "Medallion"]
+
+[[work]]
+client = "Fagforbundet"
+title = "Rapportappen"
+status = "Delivered"
+sym = "Fn"
+cat = "eng"
+summary = "An Azure Functions report generator and AI-assisted reporting workflows on Power Platform for annual reports and action plans."
+tags = ["Azure Functions", "AI Builder", "Power Platform", "Dataverse"]
+
+[[work]]
+client = "NOMVEC"
+title = "Microsoft Fabric Migration"
+status = "Delivered"
+sym = "Ol"
+cat = "data"
+summary = "Led the move to Fabric lakehouses: ETL/ELT pipelines, API integrations, semantic models and Power BI reporting."
+tags = ["Microsoft Fabric", "Lakehouse", "Power BI", "Semantic Models"]
+
+[earlier]
+text = "Earlier: EFPIA drug-shortage prediction (Databricks, Azure OpenAI) · Telenor customer segmentation (SAS Viya) · survey & competitor analytics at BI Norwegian Business School"
+
+# ------------------------------------------------------------------ stage
+[stage]
+blurb = "Sessions on Fabric, Databricks and Azure AI at conferences and user groups across Europe and the US."
+sticker = "MOST ACTIVE SPEAKER · SESSIONIZE · 2024 · "
+talks = [
+  { when = "TBA", title = "Medallion in Fabric: End-to-End Use Case", event = "Microsoft Data Platform Meetup Groningen", upcoming = true },
+  { when = "03 JUN 2025", title = "How to Deploy Advanced AI Models on Azure", event = "Kansas City SQL Server Users Group" },
+  { when = "24 JAN 2025", title = "Near-Real-Time Object Recognition with Azure AI & Fabric", event = "Data Community Day Austria" },
+  { when = "AUG 2024", title = "Medallion in Fabric: End-to-End Use Case", event = "Microsoft Fabric Cafe" },
+  { when = "2024", title = "Real-Time Object Recognition with Azure AI & Medallion", event = "Microsoft Fabric Global Online Conference" },
+  { when = "2024", title = "Near-Real-Time Object Recognition with Azure AI & Fabric", event = "Data Toboggan: Cool Runnings" },
+  { when = "2024", title = "UFO Unearthed: Databricks, AI & Power BI", event = "Data Saturday Stockholm" },
+  { when = "2024", title = "UFO Unearthed: Databricks, AI & Power BI", event = "New Stars of Data #7" },
+]
+
+# ------------------------------------------------------------------ lineage
+# Rendered newest-first as `git log --graph`. lane 0 = main, lane 1 = Oslo branch.
+[[lineage]]
+lane = 0
+title = "Senior Consultant, Data Engineering & AI"
+org = "Evidi · Oslo"
+when = "Nov 2024 → now"
+refs = ["HEAD → main"]
+
+[[lineage]]
+lane = 0
+title = "Consultant, Data Engineering"
+org = "Amesto · Oslo"
+when = "Aug 2023 – Nov 2024"
+
+[[lineage]]
+lane = 0
+merge = true
+title = "MSc in Business Analytics"
+org = "Merge branch 'oslo' · BI Norwegian Business School"
+when = "Aug 2021 – Jul 2023"
+refs = ["merge"]
+
+[[lineage]]
+lane = 1
+title = "SAS Intern · AutoML & Telenor segmentation"
+org = "SAS Institute · Oslo"
+when = "Aug 2022 – Jun 2023"
+
+[[lineage]]
+lane = 1
+title = "Power BI Developer"
+org = "BI Norwegian Business School"
+when = "Apr 2022 – Jul 2023"
+
+[[lineage]]
+lane = 1
+title = "Python & SQL Teaching Assistant"
+org = "BI Norwegian Business School"
+when = "Jan 2022 – May 2023"
+
+[[lineage]]
+lane = 1
+branch = true
+title = "git checkout -b oslo"
+org = "Moved from India to Oslo, Norway"
+when = "Aug 2021"
+refs = ["oslo"]
+
+[[lineage]]
+lane = 0
+title = "Senior Business Development Manager"
+org = "Ed-tech, India · Best Performer for 2× revenue growth"
+when = "Jun 2019 – Jul 2021"
+
+[[lineage]]
+lane = 0
+title = "BTech (Hons.) Electronics & Communication"
+org = "Lovely Professional University · India"
+when = "2015 – 2020"
+refs = ["root"]
+
+# ------------------------------------------------------------------ credentials
+[[certs]]
+code = "DP-600"
+name = "Fabric Analytics Engineer Associate"
+issuer = "Microsoft"
+year = "2024"
+cat = "data"
+
+[[certs]]
+code = "DBX"
+name = "Databricks Data Engineer Associate"
+issuer = "Databricks"
+year = "2024"
+cat = "hot"
+
+[[certs]]
+code = "DP-203"
+name = "Azure Data Engineer Associate"
+issuer = "Microsoft"
+year = "2024"
+cat = "eng"
+
+[[certs]]
+code = "PL-300"
+name = "Power BI Data Analyst Associate"
+issuer = "Microsoft"
+year = "2023"
+cat = "bi"
+
+[credentials]
+also = [
+  "SAS · Machine Learning using SAS Viya",
+  "SAS · Visual Statistics",
+  "SAS · Data Manipulation",
+  "SAS · Visual Analytics",
+  "SQL · Top 10% worldwide",
+  "Microsoft · Power BI Visualization",
+]
