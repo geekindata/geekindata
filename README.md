@@ -2,7 +2,7 @@
      Edit generator/content.toml (and generator/sections/) instead of this file. -->
 
 <p align="center">
-  <a href="https://sai.geekindata.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/hero-light.svg"><img src="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/hero-dark.svg" alt="Sai Prudhvi Neelakantam: Senior Consultant, Data Engineering &amp; AI · Evidi, Oslo. The aurora is drawn from 1,571 GitHub contributions over the last 365 days." width="100%"></picture></a>
+  <a href="https://sai.geekindata.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/hero-light.svg"><img src="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/hero-dark.svg" alt="Sai Prudhvi Neelakantam: Senior Consultant, Data Engineering &amp; AI · Evidi, Oslo. The aurora is drawn from 1,605 GitHub contributions over the last 365 days." width="100%"></picture></a>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ then write up what broke, what changed and what held up at <a href="https://www.
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/telemetry-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/telemetry-light.svg"><img src="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/telemetry-dark.svg" alt="Last 365 days: 1,571 contributions on 68 active days, longest streak 6 days, 104 commits, 32 pull requests. Languages: TypeScript 56%, Python 16%, Jupyter Notebook 10%, HTML 5%, JavaScript 3%." width="100%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/telemetry-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/telemetry-light.svg"><img src="https://raw.githubusercontent.com/geekindata/geekindata/main/assets/telemetry-dark.svg" alt="Last 365 days: 1,605 contributions on 68 active days, longest streak 6 days, 106 commits, 32 pull requests. Languages: TypeScript 56%, Python 16%, Jupyter Notebook 10%, HTML 5%, JavaScript 3%." width="100%"></picture>
 </p>
 
 <p align="center">
